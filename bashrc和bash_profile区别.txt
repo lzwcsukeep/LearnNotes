@@ -1,0 +1,4 @@
+bash_profile 文件是在执行一个登录shell 的时候自动执行。也就是说你要输入用户名，密码的登录成功之后会自动执行
+bashrc 文件是开一个非登录shell 的时候自动执行。比如登录之后，又打开一个终端shell 。
+
+网上有登录shell(login shell) 和 非登录shell(non-login shell ) 的详细解释，想要了解可以去搜。
