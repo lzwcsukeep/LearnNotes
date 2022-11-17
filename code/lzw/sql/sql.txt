@@ -1,0 +1,2 @@
+desc t_agent ;
+select * from t_agent ;

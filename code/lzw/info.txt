@@ -1,0 +1,1 @@
+mysql -h106.75.6.153  -uimsvr -pimsvf098 -A ym_resmgr

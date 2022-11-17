@@ -1,0 +1,20 @@
+Continuing.
+
+Breakpoint 3, pthread_run2 (arg=0x0) at test_process2.cpp:18
+18	        printf("I am thread2,ID: %x\n",pthread_self());
+Continuing.
+
+Breakpoint 3, pthread_run2 (arg=0x0) at test_process2.cpp:18
+18	        printf("I am thread2,ID: %x\n",pthread_self());
+Continuing.
+
+Breakpoint 3, pthread_run2 (arg=0x0) at test_process2.cpp:18
+18	        printf("I am thread2,ID: %x\n",pthread_self());
+Continuing.
+
+Breakpoint 3, pthread_run2 (arg=0x0) at test_process2.cpp:18
+18	        printf("I am thread2,ID: %x\n",pthread_self());
+Continuing.
+
+Breakpoint 3, pthread_run2 (arg=0x0) at test_process2.cpp:18
+18	        printf("I am thread2,ID: %x\n",pthread_self());
